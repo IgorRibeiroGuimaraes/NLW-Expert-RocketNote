@@ -1,12 +1,12 @@
 ### :memo: Rocketseat Event - RocketNote :memo:
-Este repositório contém o código-fonte desenvolvido durante o evento da Rocketseat - NLW-Expert na trilha de react. Durante o evento, exploramos o desenvolvimento de uma aplicação front-end em ReactJS, aplicando os seguintes conceitos e tecnologias:
+Este repositório contém o código-fonte desenvolvido durante o evento da Rocketseat - NLW-Expert na trilha de React. Durante o evento, exploramos o desenvolvimento de uma aplicação front-end em ReactJS, aplicando os seguintes conceitos e tecnologias:
 
-* Desenvolvimento de uma aplicação front-end em ReactJS
-* Aplicação dos conceitos de Propriedades, Estados e Componentes
-* Tipagem com Typescript
-* Tooling com Vite
-* Interface responsiva com TailwindCSS
-* Uso de APIs da Web como Web Storage e Web Speech
+- Desenvolvimento de uma aplicação front-end em ReactJS
+- Aplicação dos conceitos de Propriedades, Estados e Componentes
+- Tipagem com Typescript
+- Tooling com Vite
+- Interface responsiva com TailwindCSS
+- Uso de APIs da Web como Web Storage e Web Speech
 
 O intuito desta aplicação é criar um site para anotações, permitindo aos usuários fazer anotações tanto faladas quanto escritas.
 
@@ -15,20 +15,22 @@ O intuito desta aplicação é criar um site para anotações, permitindo aos us
 ## Como executar o projeto
 Siga os passos abaixo para executar o projeto em sua máquina local:
 
-Clone este repositório para sua máquina local usando o seguinte comando:
-
-* git clone https://github.com/IgorRibeiroGuimaraes/NLW-Expert-RocketNote.git
+1. Clone este repositório para sua máquina local usando o seguinte comando:
+   - `git clone https://github.com/IgorRibeiroGuimaraes/NLW-Expert-RocketNote.git`
 
 2. Instale as dependências:
-
-    * cd NLW-Expert-RocketNote
-    * npm install
+   - `cd NLW-Expert-RocketNote`
+   - `npm install`
 
 3. Inicie o servidor local:
-    * npm run dev
+   - `npm run dev`
 
 4. Acesse a aplicação em seu navegador utilizando o seguinte endereço:
-    * http://localhost:5173/
+   - [http://localhost:5173/](http://localhost:5173/)
+
+## Demonstração Online
+
+Você pode acessar uma demonstração online do projeto em: [RocketNote Demo](https://nlw-expert-rocket-note.vercel.app)
 
 ## Licença
 
